@@ -1,0 +1,82 @@
+a{
+  text-decoration: none;
+}
+body{
+  background: url(image/background2.png); 
+}
+
+h2{
+  color: rgb(21, 54, 77);
+  text-transform: uppercase;
+  margin-left: 650px;
+  font-family:serif;
+  font-size:30px;
+}
+
+/* Navbar */
+.navbar-all{
+  background-color:rgb(184, 245, 71);
+  padding: 0.5px 0px;
+}
+.navbar-ul {
+  list-style-type: none;
+  margin-left: 800px;
+  font-size: 25px;    
+}
+.navbar-li {  
+  display: inline;
+  padding: 0px 25px;
+  border: none; /* it helps removing borders */
+  text-transform: uppercase;
+}
+
+/* Skills */
+.skills-ul{
+  list-style-type: none;
+  margin-left: 500px;
+}
+.skills-li{
+  display: inline;
+  padding: 40px;
+}
+
+/* Home` */
+.home-about{   
+  margin:140px 250px;
+  padding: 100px;
+}
+
+.home-about h2{
+  color:rgb(12, 212, 146);
+  margin-left:90px;
+  font-size:40px;
+  font-family:-apple-system;
+}
+
+.home-about h3{
+  color:rgb(59, 176, 211); 
+  margin-left:210px;
+  font-size:20px;
+}
+
+.home-about p{
+  color:rgb(76, 15, 117); 
+  font-size:18px;
+  font-family:Tahoma, Arial, Helvetica, sans-ser;
+}
+
+.size label {
+  font-size:20px;
+  color: rgb(63, 5, 5);
+}
+.project{
+  padding: 60px;
+  margin-left: 80px;
+}
+.fa:hover{
+opacity: 0.7;
+}
+.fa {
+  padding: 5px;
+  margin-left: 10px;
+}
